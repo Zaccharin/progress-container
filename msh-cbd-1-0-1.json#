@@ -26,7 +26,16 @@
                 }
               }
             ].
-    }, {"CPU() #1"}: {
+
+            //list[""].newlist[""].
+            //list[""].newlist[""].
+
+            //list.{Append}.list.to(list('newlist'))
+            //list.{Append}.list.to(list('newlist'))
+
+            fun.print('newlist');
+
+}, {"CPU() #1"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
         //+constant.Objj() = {{TRANSACTION}}
             // This int main String (greatest.math)MaxArea Solution;
