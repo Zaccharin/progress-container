@@ -9,7 +9,7 @@
   static {
     }, {"CPU() #0"}: {
         "name": { "{{ "progress-container", "0x0": "global": "-1" }}"
-        <!--// Begin Aggetation //-->
+        <!--// Begin Agitation //-->
         //+constant.Objj() = {{TRANSACTION}}
             // list.equal to.list.server.item:
             [
@@ -32,92 +32,176 @@
                 }
               }
             ].
-
+        {,
             //listOne[""]+listTwo[""]=newlist[""].
             //listOne[""]+listTwo[""]=newlist[""].
+        }
 
+        {,
             //listOne.{Append}.listTwo.to(list('newlist'))
             //listOne.{Append}.listTwo.to(list('newlist'))
+        }    
 
+        {,
             fun.print('newlist');
-
+        }
+        <!--// End agitation //-->
 }, {"CPU() #1"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
+        <!--// Begin Agitation //-->
         //+constant.Objj() = {{TRANSACTION}}
-            // This int main String (greatest.math)MaxArea Solution;
+            // list.equal to.list.server.item:
             [
             {
               {"CPU() #1"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"item"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"item"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"item"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ],
 
+            // newlist.equal to.list.server.value:
             [
             {
               {"CPU() #1"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"Value"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"Value"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"Value"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ].
+        {,
+            //listOne[""]+listTwo[""]=newlist[""].
+            //listOne[""]+listTwo[""]=newlist[""].
+        }
+
+        {,
+            //listOne.{Append}.listTwo.to(list('newlist'))
+            //listOne.{Append}.listTwo.to(list('newlist'))
+        }    
+
+        {,
+            fun.print('newlist');
+        }
+        <!--// End agitation //-->
     }, {"CPU() #2"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
+        <!--// Begin Agitation //-->
         //+constant.Objj() = {{TRANSACTION}}
-            // This int main String (greatest.math)MaxArea Solution;
+            // list.equal to.list.server.item:
             [
             {
               {"CPU() #2"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"item"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"item"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"item"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ],
 
+            // newlist.equal to.list.server.value:
             [
             {
               {"CPU() #2"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"Value"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"Value"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"Value"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ].
-            ],
+        {,
+            //listOne[""]+listTwo[""]=newlist[""].
+            //listOne[""]+listTwo[""]=newlist[""].
+        }
+
+        {,
+            //listOne.{Append}.listTwo.to(list('newlist'))
+            //listOne.{Append}.listTwo.to(list('newlist'))
+        }    
+
+        {,
+            fun.print('newlist');
+        }
+        <!--// End agitation //-->
     }, {"CPU() #3"}: {
         "name": { "{{ "progress-container", "0x2": "global": "-1" }}"
+           <!--// Begin Agitation //-->
         //+constant.Objj() = {{TRANSACTION}}
-            // This int main String (greatest.math)MaxArea Solution;
+            // list.equal to.list.server.item:
             [
             {
               {"CPU() #3"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"item"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"item"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"item"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ],
 
+            // newlist.equal to.list.server.value:
             [
             {
               {"CPU() #3"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"Value"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"Value"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"Value"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ].
+        {,
+            //listOne[""]+listTwo[""]=newlist[""].
+            //listOne[""]+listTwo[""]=newlist[""].
+        }
+
+        {,
+            //listOne.{Append}.listTwo.to(list('newlist'))
+            //listOne.{Append}.listTwo.to(list('newlist'))
+        }    
+
+        {,
+            fun.print('newlist');
+        }
+        <!--// End agitation //-->
     }, "CPU() #All": {
         "name": { "{{ "progress-container", "0x3": "global": "-1" }}"
+        <!--// Begin Agitation //-->
         //+constant.Objj() = {{TRANSACTION}}
-            // This int main String (greatest.math)MaxArea Solution;
+            // list.equal to.list.server.item:
             [
             {
               {"CPU() #All"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"item"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"item"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"item"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ],
 
+            // newlist.equal to.list.server.value:
             [
             {
               {"CPU() #All"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"Value"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"Value"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"Value"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ].
+        {,
+            //listOne[""]+listTwo[""]=newlist[""].
+            //listOne[""]+listTwo[""]=newlist[""].
+        }
+
+        {,
+            //listOne.{Append}.listTwo.to(list('newlist'))
+            //listOne.{Append}.listTwo.to(list('newlist'))
+        }    
+
+        {,
+            fun.print('newlist');
+        }
+        <!--// End agitation //-->
     }
   }
 },
