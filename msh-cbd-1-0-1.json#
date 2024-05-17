@@ -9,7 +9,9 @@
             [
             {
               {"CPU() #0"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"item"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"item"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"item"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ],
@@ -17,7 +19,9 @@
             [
             {
               {"CPU() #0"} {,
-                {"item"}: { {""}, {""}, {""}, {""}
+                {"Value"}: { {"Output_variables"}::{{ {"Processor"}, {"Output_variable"}, {"CPU_count=[]"}, {"Governor_count=[]"}, {"Current_governor"}, {"Current_minimum_speed"}, {"Current_maximum_speed"}, {"Current_userspace_speed"} }}
+                {"Value"}: { {"Input_variables"}::{{ {"Processor"}, {"Governor"}, {"Minimum_speed"}, {"Maximum_speed"}, {"Userpace_speed"} }}
+                {"Value"}: { {"Input_arguments"}::{{ {"Processor"}, {"Wi-Fi hardware"}, {"WOL"}
                 }
               }
             ].
