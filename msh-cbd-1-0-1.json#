@@ -4,6 +4,7 @@
   static {
     }, {"CPU() #0"}: {
         "name": { "{{ "progress-container", "0x0": "global": "-1" }}"
+        <!--// Begin Aggetation //-->
         //+constant.Objj() = {{TRANSACTION}}
             // list.equal to.list.server.item:
             [
@@ -27,11 +28,11 @@
               }
             ].
 
-            //list[""].newlist[""].
-            //list[""].newlist[""].
+            //listOne[""]+listTwo[""]=newlist[""].
+            //listOne[""]+listTwo[""]=newlist[""].
 
-            //list.{Append}.list.to(list('newlist'))
-            //list.{Append}.list.to(list('newlist'))
+            //listOne.{Append}.listTwo.to(list('newlist'))
+            //listOne.{Append}.listTwo.to(list('newlist'))
 
             fun.print('newlist');
 
