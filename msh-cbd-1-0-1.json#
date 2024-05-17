@@ -45,7 +45,7 @@
         {,
             fun.print('newlist');
         }
-        <!--// End agitation //-->
+        <!--// End addition //-->
 }, {"CPU() #1"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
         <!--// Begin Agitation //-->
@@ -84,7 +84,7 @@
         {,
             fun.print('newlist');
         }
-        <!--// End agitation //-->
+        <!--// End addition //-->
     }, {"CPU() #2"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
         <!--// Begin Agitation //-->
@@ -123,7 +123,7 @@
         {,
             fun.print('newlist');
         }
-        <!--// End agitation //-->
+        <!--// End addition //-->
     }, {"CPU() #3"}: {
         "name": { "{{ "progress-container", "0x2": "global": "-1" }}"
            <!--// Begin Agitation //-->
@@ -162,7 +162,7 @@
         {,
             fun.print('newlist');
         }
-        <!--// End agitation //-->
+        <!--// End addition //-->
     }, "CPU() #All": {
         "name": { "{{ "progress-container", "0x3": "global": "-1" }}"
         <!--// Begin Agitation //-->
@@ -201,7 +201,7 @@
         {,
             fun.print('newlist');
         }
-        <!--// End agitation //-->
+        <!--// End addition //-->
     }
   }
 },
