@@ -2,7 +2,7 @@
       _comment:[]
       ""
   static {
-    }, "CPU() #0": {
+    }, {"CPU() #0"}: {
         "name": { "{{ "progress-container", "0x0": "global": "-1" }}"
             [
             {
@@ -11,7 +11,9 @@
                 }
               }
             ],
-    }, "CPU() #1": {
+
+
+    }, {"CPU() #1"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
             [
             {
@@ -20,7 +22,7 @@
                 }
               }
             ],
-    }, "CPU() #2": {
+    }, {"CPU() #2"}: {
         "name": { "{{ "progress-container", "0x1": "global": "-1" }}"
             [
             {
@@ -29,7 +31,7 @@
                 }
               }
             ],
-    }, "CPU() #3": {
+    }, {"CPU() #3"}: {
         "name": { "{{ "progress-container", "0x2": "global": "-1" }}"
 
             [
