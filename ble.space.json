@@ -1,9 +1,9 @@
 {
   {{ "progress-container", "a[metadata^="Processor]": "a[metadata^="mode]", "-1" }}
-  ?>./("progress-container" !===> "folder")
-  ?>./("Processory" !===> "CPU() #All")
-  ?>./("mode" !===> "global")
-  ?>./("-1" !===> "-1")
+  ?>./("progress-container" !===> "folder") // progress container becomes a folder.
+  ?>./("Processory" !===> "CPU() #All") // Processor becomes {\*All CPUs*\}.
+  ?>./("mode" !===> "global") // mode becoems global environment.
+  ?>./("-1" !===> "-1") // Value equal to -1.
 
     "progress-container":[ "folder";
   "index()";
