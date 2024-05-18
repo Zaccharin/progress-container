@@ -1,0 +1,16 @@
+{
+  {{ "progress-container", "a[metadata^="Processor]": "a[metadata^="mode]", "-1" }}
+  ?>./("progress-container" !===> "folder")
+  ?>./("Processory" !===> "CPU() #All")
+  ?>./("mode" !===> "global")
+  ?>./("-1" !===> "-1")
+
+    "progress-container":[ "folder";
+  "index()";
+  "storage()";
+  "control()";
+    ('Do While': ]. fun.Holdlog("#Datalist")
+
+    )%%+_fun.print('#Datalist')
+
+}
