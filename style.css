@@ -1,3 +1,15 @@
+@
+                               <!-root: {
+                               },
+                               "progress-container": {
+                                   @ as hexcode;
+                                        @ "progress-container": {
+                                             hexcode;
+                                        }
+                                   }
+                               },
+}}
+/root-!>
 .progress-container,
 .progress-container-fluid,
 .progress-container-xxl,
@@ -14,6 +26,8 @@
   margin-left: auto;
 }
 
+* {#.//progress-container; {Cursor-UID:{[Hover:Activate;onclick:Enable;]};foreach:{[$filter_list:Active-Search-removal;]}} }
+  
 @media (min-width: 576px) {
   .progress-container-sm, .progress-container {
     max-width: 540px;
