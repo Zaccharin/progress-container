@@ -1,13 +1,22 @@
 @
-                               <!-root: {
-                               },
-                               "progress-container": {
-                                   @ as hexcode;
-                                        @ "progress-container": {
-                                             hexcode;
-                                        }
-                                   }
-                               },
+                               <xa?script version="1.0" encoding="ANSI">
+                               <resources>
+
+                               /*
+                               * // <!-root: {
+                               * // },
+                               * // "progress-container": {
+                                   * // @ as hexcode;
+                                        * // @ "progress-container": {
+                                             * // hexcode;
+                                        * // }
+                                   * // }
+                               * // },
+                               * // /root-!>
+                               */
+
+                               </resources>
+                               </xa?>
 }}
 /root-!>
 .progress-container,
