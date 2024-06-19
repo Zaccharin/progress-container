@@ -1,40 +1,7 @@
-<!--// Begin //-->
-```lessc style.less style.css
-<style.Less>
-<SCRIPT>
-<?PHP>
-<STYLE>
-@
-                               <xa?script version="1.0" encoding="ANSI">
-                               <resources>
-
-                               /*
-                               * // <!-root: {
-                               * // },
-                               * // "progress-container": {
-                                   * // @ as hexcode;
-                                        * // @ "progress-container": {
-                                             * // hexcode;
-                                        * // }
-                                   * // }
-                               * // },
-                               * // /root-!>
-                               */
-
-                               </resources>
-                               </xa?>
-}}
-</STYLE>
-</PHP?>
-</SCRIPT>
-</style.Less>
-lessc style.less style.css```
-<!--// End //-->
-<!--// Begin //-->
-.progress-container,
-.progress-container-fluid,
-.progress-container-xxl,
-.progress-container-xl,
+1,.progress-container,
+2,.progress-container-fluid,
+3,.progress-container-xxl,
+4,.progress-container-xl,
 .progress-container-lg,
 .progress-container-md,
 .progress-container-sm {
@@ -4111,7 +4078,5 @@ lessc style.less style.css```
     display: none !important;
   }
 }
-<STYLE>
-<?PHP>
-</SCRIPT>
-lessc style.less style.css```
+</style>
+</css>
