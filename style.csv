@@ -1,7 +1,8 @@
-1,.progress-container,
-2,.progress-container-fluid,
-3,.progress-container-xxl,
-4,.progress-container-xl,
+<!-root: {
+.progress-container,
+.progress-container-fluid,
+.progress-container-xxl,
+.progress-container-xl,
 .progress-container-lg,
 .progress-container-md,
 .progress-container-sm {
@@ -13,9 +14,11 @@
   margin-right: auto;
   margin-left: auto;
 }
-
+{.
+/*
 * {#.//progress-container; {Cursor-UID:{[Hover:Activate;onclick:Enable;]};foreach:{[$filter_list:Active-Search-removal;]}} }
-  
+*/
+}.
 @media (min-width: 576px) {
   .progress-container-sm, .progress-container {
     max-width: 540px;
