@@ -3,7 +3,7 @@
     {{ "", "": "", "" }}
           ?>./{{".progress-container-*" !===>"folder"}}
                                                        ]}
-    "foldler":[ --list fs
+    "folder":[ --list fs
     "--list files"
       ].
   }
