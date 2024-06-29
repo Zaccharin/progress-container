@@ -19,6 +19,18 @@ CPU_Processor_Value {
   CPU() #1: Max_Processor_Value;
   CPU() #2: Max_Processor_Value;
   CPU() #3: Max_Processor_Value;
+  CPU() #All: Max_Processor_Value;
+}
+Core_Processor_Value {
+  Core()#0: Min_Processor_Value;
+  Core()#1: Min_Processor_Value;
+  Core()#2: Min_Processor_Value;
+  Core()#3: Min_Processor_Value;
+  Core()#4: Min_Proccessor_Value;
+  Core()#5: Min_Processor_Value;
+  Core()#6: Min_Processor_Value;
+  Core()#7: Min_Processor_Value;
+  Core()#8: Min_Processor_Value;
 }
 .Cursor-UID {
   Hover:Activate;onclick:Enable;
