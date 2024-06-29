@@ -13,7 +13,7 @@
   margin-right: auto;
   margin-left: auto;
 }
-CPU_Processor_Value {
+Processor {
   CPU() #00: Max_Processor_Value;
   CPU() #0: Max_Processor_Value;
   CPU() #1: Max_Processor_Value;
@@ -21,7 +21,7 @@ CPU_Processor_Value {
   CPU() #3: Max_Processor_Value;
   CPU() #All: Max_Processor_Value;
 }
-Core_Processor_Value {
+Memory {
   Core()#0: Min_Processor_Value;
   Core()#1: Min_Processor_Value;
   Core()#2: Min_Processor_Value;
@@ -31,6 +31,10 @@ Core_Processor_Value {
   Core()#6: Min_Processor_Value;
   Core()#7: Min_Processor_Value;
   Core()#8: Min_Processor_Value;
+}
+ {
+}
+illumination {
 }
 .Cursor-UID {
   Hover:Activate;onclick:Enable;
