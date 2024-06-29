@@ -13,6 +13,13 @@
   margin-right: auto;
   margin-left: auto;
 }
+CPU() #00: Max_Processor_Value;
+CPU() #0: Max_Processor_Value;
+CPU() #1: Max_Processor_Value;
+CPU() #2: Max_Processor_Value;
+}
+CPU() #0 {
+}
 .Cursor-UID {
   Hover:Activate;onclick:Enable;
 }
