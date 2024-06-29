@@ -29,6 +29,7 @@ table, tr {
   Hover:Activate;onclick:Enable;
 }
 .ul {
+    Hover:Activate;onclick:Enable;
 }
 @media (min-width: 576px) {
   .progress-container-sm, .progress-container {
