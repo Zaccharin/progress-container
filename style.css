@@ -13,10 +13,23 @@
   margin-right: auto;
   margin-left: auto;
 }
-
-.Cursor-UID {Hover:Activate;onclick:Enable;}
-.Search() {$filter_list:Active-Search-removal}
-
+.Cursor-UID {
+  Hover:Activate;onclick:Enable;
+}
+.li {
+  Hover:Activate;onclick:Enable;  
+}
+.Search() {
+  $filter_list:Active-Search-removal;
+}
+table th, td {
+  Hover:Activate;onclick:Enable;
+}
+table, tr {
+  Hover:Activate;onclick:Enable;
+}
+.ul {
+}
 @media (min-width: 576px) {
   .progress-container-sm, .progress-container {
     max-width: 540px;
