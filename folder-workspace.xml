@@ -1,4 +1,5 @@
-#!/$/bin/usr *Node <?php
+#!/$/bin/usr *Node 
+<?php
 {{@// /*Multi line commit mention;*/
 {
 IF(POSTED)request:
