@@ -1,3 +1,4 @@
+$(document).onload Function(
 {
   inter{
     {{ "", "": "", "" }}
@@ -7,5 +8,10 @@
     "folder":[ --list fs
     "--list files"
       ('Do While': ].
+
+      )
+  </script>
+  getElementbyclassName("");,
+  
   }act
-}
+})
