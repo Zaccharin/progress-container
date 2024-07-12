@@ -1,10 +1,10 @@
 {
-  {
+  inter{
     {{ "", "": "", "" }}
-          ?>./{{".progress-container-*" !===>"folder"}}
+          ?>./{{".progress-container-*" !===>"folder"}}; // oninteract .progress-container=folder-workspace.
                                                        ]}
     "folder":[ --list fs
     "--list files"
       ].
-  }
+  }act
 }
