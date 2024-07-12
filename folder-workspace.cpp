@@ -1,47 +1,47 @@
-#!/$/bin/usr *Node
+// #!/$/bin/usr *Node
   
-<?php>
+// <?php>
   
-<style>
+// <style>
 
-{{@// /*Multi line commit mention;*/
+// {{@// /*Multi line commit mention;*/
 
-{
+// {
 
-IF(POSTED)request:
+// IF(POSTED)request:
 
-{
+// {
 
-  {{$(document).onload Function(
+//   {{$(document).onload Function(
     
-    {
+//     {
     
-      inter{
+//       inter{
     
-        {{ "", "": "", "" }}
+//        {{ "", "": "", "" }}
     
-          ?>./{{".progress-container-*" !===>"folder"}}; // oninteract .progress-container=folder-workspace.
+//           ?>./{{".progress-container-*" !===>"folder"}}; // oninteract .progress-container=folder-workspace.
    
-                                                        ]}
+//                                                         ]}
   
-        <script>
+//         <script>
           
-          "folder":[ "--list fs";
+//         "folder":[ "--list fs";
   
-            "--list files";
+//             "--list files";
   
-            ('Do While': ]. fun.Holdlog('') {_completed:[DEFAULT:Default@Default]: True;}
+//             ('Do While': ]. fun.Holdlog('') {_completed:[DEFAULT:Default@Default]: True;}
 
-            )%%+ fun.print("");,
+//             )%%+ fun.print("");,
               
-        </script>
+//         </script>
               
-        getElementbyclassName("");,
+//         getElementbyclassName("");,
         
-      }act
-  
-})
+//       }act
+   
+// })
 
-</style>
+// </style>
   
-</php?>
+// </php?>
