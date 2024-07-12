@@ -1,17 +1,23 @@
-$(document).onload Function(
+#!/$/bin/usr *Node <?php
+{{@// /*Multi line commit mention;*/
 {
-  inter{
-    {{ "", "": "", "" }}
+IF(POSTED)request:
+{
+  {{$(document).onload Function(
+    {
+      inter{
+        {{ "", "": "", "" }}
           ?>./{{".progress-container-*" !===>"folder"}}; // oninteract .progress-container=folder-workspace.
-                                                       ]}
-  <script>
-    "folder":[ --list fs
-    "--list files"
-      ('Do While': ].
+                                                        ]}
+        <script>
+          "folder":[ --list fs
+          "--list files"
+          ('Do While': ].
 
-      )
-  </script>
-  getElementbyclassName("");,
-  
-  }act
+          )
+        </script>
+        getElementbyclassName("");,
+        
+      }act
 })
+/php?>
