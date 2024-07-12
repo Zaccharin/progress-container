@@ -1,0 +1,9 @@
+/*
+* l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
+* gpu15_l_config-include?_include=./udp, ./digi, ./cloud-server.bin(!fixup)
+  {,
+    // /**"" {#.//"exec":"[~]$_SERVER:[`file`]";} } */
+  }
+* gpu15_l_config-include?_include=./udp, ./script, ./source, "playbook.exe"
+* l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
+*/
