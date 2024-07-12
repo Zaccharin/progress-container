@@ -1,12 +1,14 @@
-/*
-* l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
-* gpu15_l_config-include?_include=./udp, ./digi, ./cloud-server.bin(!fixup)
-      {
-          {,
-              "list["// /**"" {#.//"exec":"[~]$_SERVER:[`file`]";} } */"],"
-              "newlist["// /**"" {#.//"exec":"[~]$_SERVER:[`Variable`]";} } */"]."
-          }.
-      }
-* gpu15_l_config-include?_include=./udp, ./script, ./source, "playbook.exe"
-* l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
-*/
+{
+  "/*
+  * l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
+  * gpu15_l_config-include?_include=./udp, ./digi, ./cloud-server.bin(!fixup)
+        {
+            {,
+                "list["// /**"" {#.//"exec":"[~]$_SERVER:[`file`]";} } */"],"
+                "newlist["// /**"" {#.//"exec":"[~]$_SERVER:[`Variable`]";} } */"]."
+            }.
+        }
+  * gpu15_l_config-include?_include=./udp, ./script, ./source, "playbook.exe"
+  * l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
+  */"
+}
