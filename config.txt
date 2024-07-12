@@ -1,8 +1,10 @@
 {
-  "/*
+  "<server-config name="User Data">
+  /*
   * // @@*--l_gpu_15_config="https://github.com/Zaccharin/progress-container/edit/main/config.txt"{_completed:[DEFAULT:Default@Default]: True;};
   * // @@*--gpu15_l_config="list["// /**"" {#.//"exec":"[~]$_SERVER:[`file`]";} } */"]";
   * // @@*--gpu15_l_config="newlist["// /**"" {#.//"exec":"[~]$_SERVER:[`Variable`]";} } */"]";
   * // @@*--l_gpu_15_config="https://github.com/Zaccharin/progress-container/edit/main/config.txt"{_completed:[DEFAULT:Default@Default]: True;};
-  */"
+  */
+  </server-config>"
 }
