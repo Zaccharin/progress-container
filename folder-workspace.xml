@@ -1,5 +1,6 @@
 #!/$/bin/usr *Node 
-<?php
+<?php>
+<style>
 {{@// /*Multi line commit mention;*/
 {
 IF(POSTED)request:
@@ -12,13 +13,14 @@ IF(POSTED)request:
                                                         ]}
         <script>
           "folder":[ --list fs
-          "--list files"
-          ('Do While': ].
+            "--list files"
+            ('Do While': ].
 
-          )
+            )
         </script>
         getElementbyclassName("");,
         
       }act
 })
-/php?>
+</style>
+</php?>
