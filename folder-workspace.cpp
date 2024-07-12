@@ -12,11 +12,11 @@ IF(POSTED)request:
           ?>./{{".progress-container-*" !===>"folder"}}; // oninteract .progress-container=folder-workspace.
                                                         ]}
         <script>
-          "folder":[ --list fs
-            "--list files"
-            ('Do While': ].
+          "folder":[ "--list fs";
+            "--list files";
+            ('Do While': ]. fun.Holdlog('') {_completed:[DEFAULT:Default@Default]: True;}
 
-            )
+            )%%+ fun.print("");,
         </script>
         getElementbyclassName("");,
         
