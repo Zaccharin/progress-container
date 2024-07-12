@@ -1,14 +1,8 @@
 {
   "/*
-  * l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
-  * gpu15_l_config-include?_include=./udp, ./digi, ./cloud-server.bin(!fixup)
-        {
-            {,
-                "list["// /**"" {#.//"exec":"[~]$_SERVER:[`file`]";} } */"],"
-                "newlist["// /**"" {#.//"exec":"[~]$_SERVER:[`Variable`]";} } */"]."
-            }.
-        }
-  * gpu15_l_config-include?_include=./udp, ./script, ./source, "playbook.exe"
-  * l_gpu_15_config?_config="config.txt"enabled.nfc-tag;.
+  * // @@*--l_gpu_15_config="https://github.com/Zaccharin/progress-container/edit/main/config.txt"{_completed:[DEFAULT:Default@Default]: True;};
+  * // @@*--gpu15_l_config="list["// /**"" {#.//"exec":"[~]$_SERVER:[`file`]";} } */"]";
+  * // @@*--gpu15_l_config="newlist["// /**"" {#.//"exec":"[~]$_SERVER:[`Variable`]";} } */"]";
+  * // @@*--l_gpu_15_config="https://github.com/Zaccharin/progress-container/edit/main/config.txt"{_completed:[DEFAULT:Default@Default]: True;};
   */"
 }
