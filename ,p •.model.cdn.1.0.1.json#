@@ -3,24 +3,24 @@
 {
 if(POSTED)request:
 {
-    *{{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;."}};.* }
+  * {{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;."}};.* }
 {
-    *{{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;."}};.* }
+  * {{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;."}};.* }
 {
-    *{{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};.* }
+  * {{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};.* }
 {
-    *{{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};.* }
+  * {{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};.* }
 {
-    *{{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};.* }
+  * {{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};.* }
 {
   {
 }
-%+model:
-    *{{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;."}};
-    *{{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;."}};
-    *{{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
-    *{{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
-    *{{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
+{Any_networking_model}:
+  {{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;."}};
+  * {{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;."}};
+  * {{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
+  * {{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
+  * {{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
 {
   {
 }
