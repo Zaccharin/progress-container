@@ -3,28 +3,35 @@
 {
 if(POSTED)request:
 {
-    *{{@// @@*--Description="@Datalist" ;elsewise::*thenafter;.* //
+    {{@// @@*--Description="@Datalist" ;elsewise::*thenafter;.* //
 {
-    *{{"<option="mesh.cdn.1.0.1.json#" conrtent="Netowrk">;."}};.* }
+    *{{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">;."}};.* }
 {
-    *{{":\content:\\msh.cdn.1.0.1.json#"}};.* }
+    *{{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>"}};.* }
 {
-    *{{":\content:\\sh.cdn.1.0.1.json#"}};.* }
+    *{{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>"}};.* }
 {
-    *{{":\content:\\eges.cdn.1.0.1.json#"}};.* }
+    *{{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>"}};.* }
 {
-    *{{":\content:\\egs.cdn.1.0.1.json#"}};.* }
-{
-  {
-}
-  {{@// @@*--Description="@Dataset" ;elsewise::*thenafter; //
-    {
-      ""
-    }
-  }}
+    *{{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>"}};.* }
 {
   {
 }
+{{@// @@*--Description="@Dataset" ;elsewise::*thenafter; //
+{
+    {{@// @@*--Description="@Datalist" ;elsewise::*thenafter;.* //
+{
+    *{{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">;."}};.* }
+{
+    *{{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>"}};.* }
+{
+    *{{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>"}};.* }
+{
+    *{{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>"}};.* }
+{
+    *{{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>"}};.* }
 {
   {
 }
+}
+}}
