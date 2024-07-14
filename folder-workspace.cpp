@@ -17,8 +17,8 @@
 //     {
     
 //       inter{
-    
-//        {{ "", "": "", "" }}
+    `
+//        ('createData': '[%uid]' {{ "$'{id}'['{name}']"$'{item}'"', "['NAME']'$'"{item}"',: ""$'{data}'"'[{Encryption}]'"$'{item}'"), . ]} }}
     
 //           ?>./{{".progress-container-*" !===>"folder"}}; // oninteract .progress-container=folder-workspace.
    
