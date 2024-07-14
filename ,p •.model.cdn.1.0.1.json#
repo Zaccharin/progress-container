@@ -15,19 +15,12 @@ if(POSTED)request:
 {
   {
 }
-{{@// @@*--Description="@Dataset" ;elsewise::*thenafter; //
-{
-    {{@// @@*--Description="@Datalist" ;elsewise::*thenafter;.* //
-{
-    *{{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">;."}};.* }
-{
-    *{{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>"}};.* }
-{
-    *{{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>"}};.* }
-{
-    *{{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>"}};.* }
-{
-    *{{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>"}};.* }
+%+model:
+    *{{"<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;."}};
+    *{{"<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;."}};
+    *{{"<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
+    *{{"<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
+    *{{"<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;."}};
 {
   {
 }
