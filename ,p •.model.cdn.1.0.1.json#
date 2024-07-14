@@ -3,15 +3,15 @@
 {
 if(POSTED)request:
 {
-  * {{"ENABLE.<XML><MANIFEST><Service="('createData': '<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;]')" enabled="true" value=""></Service>,"}};. }
+  * {{"ENABLE.<XML><MANIFEST><Service="<style>git{Content $={[('createData': '<a[metaCtrl^="mesh.cdn.1.0.1.json#">; // Datalist@Dropdown-menu;]')]}.</style>" enabled="true" value=""></Service>,"}};. }
 {
-  * {{"ENABLE.<XML><MANIFEST><Service="('createData': '<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;]')" enabled="true" value=""></Service>,"}};. }
+  * {{"ENABLE.<XML><MANIFEST><Service="<style>git{Content $={[('createData': '<a[metaCtrl^="msh.cdn.1.0.1.json#"]>; // Datalist@Dropdown-menu;]')]}.</style>" enabled="true" value=""></Service>,"}};. }
 {
-  * {{"ENABLE.<XML><MANIFEST><Service="('createData': '<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;]')" enabled="true" value=""></Service>,"}};. }
+  * {{"ENABLE.<XML><MANIFEST><Service="<style>git{Content $={[('createData': '<a[metaCtrl^="sh.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;]']}.</style>)" enabled="true" value=""></Service>,"}};. }
 {
-  * {{"ENABLE.<XML><MANIFEST><Service="('createData': '<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;]')" enabled="true" value=""></Service>,"}};. }
+  * {{"ENABLE.<XML><MANIFEST><Service="<style>git{Content $={[('createData': '<a[metaCtrl^="eges.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;]')]}.</style>" enabled="true" value=""></Service>,"}};. }
 {
-  * {{"ENABLE.<XML><MANIFEST><Service="('createData': '<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;]')" enabled="true" value=""></Service>,"}};. }
+  * {{"ENABLE.<XML><MANIFEST><Service="<style>git{Content $={[('createData': '<a[metaCtrl^="egs.cdn.1.0.1.json#]>; // Datalist@Dropdown-menu;]')]}.</style>" enabled="true" value=""></Service>,"}};. }
 {
   {
 }
