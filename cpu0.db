@@ -1,4 +1,4 @@
-].import {{ #Task: #Variable }}
+].#{#import}-:-|-:-{{ #Task: #Variable }} // #{#Device-State}-:-#{#Parent_URI}
 ].{"Variable"}-:-#{#Processor} // Set
 ].{"Processor"}-:-#{#mode} // Set
-].import {{ #mode: #variable }}
+].#{#import}-:-{{ #mode: #variable }} // #{#file-state}-:-#{#child_URI}
