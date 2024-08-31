@@ -1,12 +1,4 @@
-0, webpack-dev-server /--fs/-f/
-1,* { . "{{ ".progress-container", "0x0": "": "-1" }}: ;elsewise::*thenafter;" . }
-2,* { . "{{ ".progress-container", "0x0": "global": "-1" }}: ;elsewise::*thenafter;" . }
-3,* { . "{{ ".progress-container", "0x0": "domain": "-1" }}: ;elsewise::*thenafter;" . }
-4,* { . "{{ ".progress-container", "0x0": "secure": "-1" }}: ;elsewise::*thenafter;" . }
-5,* { . "{{ ".progress-container", "0x0": "universal": "-1" }}: ;elsewise::*thenafter;" . }
-6,* { . "{{ ".progress-container", "0x0": "vendor": "-1" }}: ;elsewise::*thenafter;" . }
-
-
-
-
-
+].import {{ #Task: #Variable }}
+].{"Variable"}-:-#{#Processor} // Set
+].{"Processor"}-:-#{#mode} // Set
+].import {{ #mode: #variable }}
