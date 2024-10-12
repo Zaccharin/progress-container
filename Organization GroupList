@@ -6,6 +6,8 @@
 
 <SCRIPT>
 
+/*
+
 <?PHP {[VERSION=[1.0]]}-:-{[ENCODING=[ISO-8859-11]]} // SET;.>
 
 <STYLE>
@@ -22,11 +24,11 @@
 
 $().onload Function(
 
-{
+let{
 
-  {
+  /*{
 
-    [
+    config:[
 
     php version 4.0:
 
@@ -37,7 +39,7 @@ $().onload Function(
 
     ],
 
-    [
+    new config:[
 
     <script>
       // {"macro":{[echo "</br>"{#+let.//@@*--@Dropdown-menu="[tr:[ng-repeat=[#.Var.Network-Key]]:]":true;]}": true;}-:-{"macro":{[echo "</br>"{#+let.//@@*--@Dropdown-menu="[tr:[ng-repeat=[#.Var.Key]]:]":true;]}": true;}-:-{"macro":{[echo "</br>"{#+let.//@@*--@Dropdown-menu="[tr:[ng-repeat=[#.Var.IV-Index()]]:]":true;]}*: true;} // gitQuantum;
@@ -45,7 +47,7 @@ $().onload Function(
 
     ].
 
-  }
+  }*/
 
 },
 
