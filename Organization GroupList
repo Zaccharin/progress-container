@@ -1,6 +1,10 @@
 <ul class="nested">
 <?php
 {
+  php version 4.0:
+  <script>
   // @@*--@Dropdown-menu="[tr:[ng-repeat=[#.Var.Network-Key]]:]"; //@@*--@Dropdown-menu="[tr:[ng-repeat=[#.Var.Key]]:]"; //@@*--@Dropdown-menu="[tr:[ng-repeat=[#.Var.IV-Index()]]:]"; //
+  </script>
 })
+<span></SPAN>
 </ul>
