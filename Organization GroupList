@@ -6,13 +6,14 @@
 
 <SCRIPT>
 
-<?PHP>
+<?PHP {[VERSION=[1.0]]}-:-{[ENCODING=[ISO-8859-11]]} // SET;.>
 
 <STYLE>
 
 <xml?script version=1.0 encoding=x-iso8859-11>
 
 <xa?script version=1.0 encoding=UTF-8>
+
 <resources>
 
 <ul class="nested">
